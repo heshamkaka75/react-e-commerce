@@ -1,0 +1,10 @@
+.protitle {
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.pro{
+    margin-top: 100px;
+}

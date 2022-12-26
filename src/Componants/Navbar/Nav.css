@@ -1,0 +1,12 @@
+nav{
+    font-family:   "kofi",'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+
+nav img{
+    margin-right: 100px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white !important;
+  }

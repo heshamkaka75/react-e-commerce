@@ -1,0 +1,30 @@
+.car{
+    background-image: url('../../assets/blackboard-1846865_960_720.jpg') ;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+    padding: 25px 0px;
+
+}
+
+.car img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 140px;
+
+}
+
+.car .carousel-caption{
+}
+
+.car .carousel-caption h3{
+    font-size: 20px;
+}
+
+.car .carousel-caption p{
+    font-size: 20px;
+}
